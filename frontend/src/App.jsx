@@ -69,7 +69,7 @@ export default function App() {
   return (
     <div className="page">
       <header className="header">
-        <h1>Fraud Review Console</h1>
+        <h1>Peek-Transaction</h1>
         <span className="live">Auto-refreshing every 5s</span>
       </header>
 

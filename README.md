@@ -1,4 +1,4 @@
-# Fraud Rule Engine with Review Console
+# Peek-Transaction
 
 A transaction risk engine. Each transaction is scored by a set of independent rules, saved with its
 flags, and shown to human reviewers in a React console. High-risk transactions trigger an AWS SNS email.
